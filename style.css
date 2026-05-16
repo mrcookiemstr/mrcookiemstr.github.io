@@ -118,3 +118,13 @@ a:hover {
   color: var(--muted);
   font-size: 0.92rem;
 }
+
+.panel-blurb {
+  margin: 0 0 0.75rem;
+  color: var(--muted);
+  font-size: 0.98rem;
+}
+
+.panel-actions {
+  margin: 0;
+}
